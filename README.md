@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Entrepreneurship**
 
-- 👯 I’m looking to collaborate on **Mobile App Development**
+- 👯 I’m looking to collaborate on **Fullstack Development**
 
 - 🤝 I’m looking for help with **Business**
 
